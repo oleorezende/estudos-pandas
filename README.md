@@ -39,7 +39,3 @@ Este repositório contém exercícios e pequenos projetos abordando:
 - Ordenação de dados
 - Criação de colunas
 - Transformações de datasets
-
----
-
-# 📂 Estrutura do repositório
